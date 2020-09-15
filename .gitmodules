@@ -1,3 +1,6 @@
 [submodule "matrix"]
 	path = matrix
 	url = https://github.com/jacol84/mija-hyperskill-matrix.git
+[submodule "flashcards"]
+	path = flashcards
+	url = https://github.com/jacol84/mija-hyperskill-flashcards.git

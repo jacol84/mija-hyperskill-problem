@@ -4,3 +4,6 @@
 [submodule "flashcards"]
 	path = flashcards
 	url = https://github.com/jacol84/mija-hyperskill-flashcards.git
+[submodule "Phone-Book"]
+	path = Phone-Book
+	url = https://github.com/jacol84/mija-hyperskill-Phone-Book.git
